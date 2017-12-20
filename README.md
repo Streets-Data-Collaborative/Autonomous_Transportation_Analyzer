@@ -11,11 +11,10 @@ Phase two involves developing an analytical methodology to model the impact of d
 Phase three involves developing a decision support visualization tool to enable scenario planning with municipal managers across the Southern California region. 
 
 - **What questions will this project help answer?**
-
 	- What would be the impact of dedictating two lanes on every freeway across Southern California to autonomous vehicle ("AV") bus rapid transit ("BRT") (or perhaps, better named, software trains)?
-	-What freeway corridors would be best suited for an initial deployment of AV BRT lanes?
-	-What would be the impact of 5%, 15% or X% adoption of a subscription based private autonomous vehicle network? 
-	-Other focused questions?
+		- What freeway corridors would be best suited for an initial deployment of AV BRT lanes?
+	- What would be the impact of 5%, 15% or X% adoption of a subscription based private autonomous vehicle network? 
+	- Other focused questions?
 
 - **Resources.**
 
